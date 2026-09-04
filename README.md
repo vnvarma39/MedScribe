@@ -26,6 +26,53 @@
 
 ---
 
+## 📸 Interface & System Preview
+
+Explore the MedScribe clinical dashboard and AI extraction workstation in action:
+
+### 1. 🏠 Executive Clinical Operations Dashboard
+> Real-time operational overview tracking total patient volume, clinical documentation throughput, entity counts, pipeline health (100% extraction success rate), and multi-provider LLM inference telemetry.
+
+![MedScribe Executive Clinical Dashboard](docs/assets/screenshots/01_home_dashboard.png)
+
+---
+
+### 2. 📋 Longitudinal Patient Records & Encounter Timeline
+> Patient cohort browser with instant search, demographic indexing, and interactive chronological clinical encounter history with expandable note details.
+
+![Patient Records and Note Timeline](docs/assets/screenshots/02_patient_records_timeline.png)
+
+---
+
+### 3. 🧬 Structured Medical Entity Extraction & AI Summarization
+> Real-time medical entity parsing displaying categorized badges (diagnoses with ICD codes, medications with dosages and frequencies, verified allergies, and prioritized follow-ups) alongside on-demand LLM clinical synthesis.
+
+![Structured Medical Entities and AI Summary](docs/assets/screenshots/03_entity_viewer_summary.png)
+
+---
+
+### 4. 📊 Population Health & Diagnostic Analytics
+> Interactive epidemiological intelligence built with Plotly, featuring top diagnosed conditions, medication utilization distributions, allergen frequencies, and note ingestion trends.
+
+![Population Health Analytics](docs/assets/screenshots/04_population_analytics.png)
+
+---
+
+### 5. ⚡ Asynchronous Clinical Note Ingestion
+> Direct clinical documentation portal allowing practitioners to select or register patients, paste raw consultation narratives, and dispatch background extraction jobs without blocking UI workflows.
+
+![Clinical Note Ingestion](docs/assets/screenshots/05_clinical_note_ingest.png)
+
+---
+
+### 6. 🔍 Real-Time Extracted Entities & Verification
+> Immediate feedback view showing normalized clinical entities, severity classifications, and active LLM engine attribution (OpenRouter / Groq / Ollama).
+
+![Extracted Entities Result](docs/assets/screenshots/06_extracted_entities.png)
+
+---
+
+
 ## 🗂️ Project Structure
 
 ```
