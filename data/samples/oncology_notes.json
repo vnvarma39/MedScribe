@@ -1,0 +1,9 @@
+[
+  {
+    "specialty": "Oncology",
+    "presentation": "Post-chemotherapy evaluation for Stage II Breast Cancer",
+    "diagnoses": ["Invasive Ductal Carcinoma of Breast", "Chemotherapy-induced nausea"],
+    "medications": ["Tamoxifen 20mg daily", "Ondansetron 8mg oral PRN", "Dexrazoxane 500mg IV"],
+    "allergies": ["Doxorubicin (cardiotoxicity warning)"]
+  }
+]
