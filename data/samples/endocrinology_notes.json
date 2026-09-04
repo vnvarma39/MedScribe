@@ -1,0 +1,9 @@
+[
+  {
+    "specialty": "Endocrinology",
+    "presentation": "Elevated HbA1c 9.2% with peripheral neuropathy",
+    "diagnoses": ["Type 2 Diabetes Mellitus", "Diabetic Neuropathy"],
+    "medications": ["Metformin 1000mg BID", "Empagliflozin 10mg daily", "Gabapentin 300mg QHS"],
+    "allergies": ["Sulfa antibiotics (diffuse rash)"]
+  }
+]
