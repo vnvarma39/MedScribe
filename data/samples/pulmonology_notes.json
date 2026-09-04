@@ -1,0 +1,9 @@
+[
+  {
+    "specialty": "Pulmonology",
+    "presentation": "Productive cough and wheezing for 5 days",
+    "diagnoses": ["COPD exacerbation", "Community-acquired pneumonia"],
+    "medications": ["Tiotropium 18mcg inhaled daily", "Albuterol nebulized Q4h", "Prednisone 40mg daily"],
+    "allergies": ["Penicillin (anaphylaxis)"]
+  }
+]
