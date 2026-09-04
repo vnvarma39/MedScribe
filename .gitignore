@@ -67,7 +67,7 @@ htmlcov/
 Thumbs.db
 
 # Docker
-.dockerignore
+# (allow .dockerignore tracking)
 
 # MyPy
 .mypy_cache/
