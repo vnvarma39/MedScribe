@@ -1,0 +1,9 @@
+[
+  {
+    "specialty": "Nephrology",
+    "presentation": "Stage 3b Chronic Kidney Disease follow-up, eGFR 42 mL/min",
+    "diagnoses": ["Chronic Kidney Disease Stage 3b", "Hypertensive Nephrosclerosis"],
+    "medications": ["Losartan 50mg daily", "Furosemide 20mg daily", "Sodium bicarbonate 650mg BID"],
+    "allergies": ["IV Iodinated Contrast (acute kidney injury)"]
+  }
+]
