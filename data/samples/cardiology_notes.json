@@ -1,0 +1,9 @@
+[
+  {
+    "specialty": "Cardiology",
+    "presentation": "Exertional angina and dyspnea",
+    "diagnoses": ["Coronary Artery Disease", "Essential Hypertension", "Hyperlipidemia"],
+    "medications": ["Aspirin 81mg daily", "Atorvastatin 80mg nightly", "Metoprolol succinate 50mg daily"],
+    "allergies": ["Ibuprofen (gastric ulceration)"]
+  }
+]
